@@ -1,0 +1,72 @@
+[
+    {
+        "id" : "S101",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/videos/Template1.mp4?raw=true",
+        "name" : "Content Creator",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "1",
+        "downloads" : 0
+    },
+    {
+        "id" : "S102",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/videos/Template2.mp4?raw=true",
+        "name" : "Fashion Week",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "1",
+        "downloads" : 0
+    },
+    {
+        "id" : "S103",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/videos/Template3.mp4?raw=true",
+        "name" : "Food Market",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "1",
+        "downloads" : 0
+    },
+    {
+        "id" : "S104",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/videos/Template4.mp4?raw=true",
+        "name" : "Movies World",
+        "newPrice" : 200,
+        "oldPrice" : 1000,
+        "currency" : "Rs.",
+        "category" : "1",
+        "downloads" : 0
+    },
+    {
+        "id" : "S105",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/videos/Template5.mp4?raw=true",
+        "name" : "Art Gallery",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "1",
+        "downloads" : 0
+    },
+    {
+        "id" : "S106",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/videos/Template3.mp4?raw=true",
+        "name" : "Digital Library",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "1",
+        "downloads" : 0
+    },
+    {
+        "id" : "S107",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/videos/Template2.mp4?raw=true",
+        "name" : "Photography",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "1",
+        "downloads" : 0
+    }
+]

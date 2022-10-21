@@ -1,0 +1,62 @@
+[
+    {
+        "id" : "P101",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/Images/CppImages/addition.png?raw=true",
+        "name" : "Addition",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "cppCard",
+        "downloads" : 0
+    },
+    {
+        "id" : "P102",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/Images/CppImages/Calculator.png?raw=true",
+        "name" : "Calculator",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "cppCard",
+        "downloads" : 0
+    },
+    {
+        "id" : "P103",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/Images/CppImages/Table.png?raw=true",
+        "name" : "Math Table",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "cppCard",
+        "downloads" : 0
+    },
+    {
+        "id" : "P104",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/Images/PythonImages/Addition.png?raw=true",
+        "name" : "Addition",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "pythonCard",
+        "downloads" : 0
+    },
+    {
+        "id" : "P105",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/Images/PythonImages/Calculator.png?raw=true",
+        "name" : "Calculator",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "pythonCard",
+        "downloads" : 0
+    },
+    {
+        "id" : "P106",
+        "videoPath" : "https://github.com/Saurabh359/AssetCollection/blob/main/Images/PythonImages/Table.png?raw=true",
+        "name" : "Math Table",
+        "newPrice" : 100,
+        "oldPrice" : 500,
+        "currency" : "Rs.",
+        "category" : "pythonCard",
+        "downloads" : 0
+    }
+]
